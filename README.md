@@ -5,9 +5,6 @@ The instrument uses video streaming in X-plane 12.
 <br>
 <br>
 
-![Custom G1000 overview](Custom+G1000+overview.png)
-
-
 __Supported aircraft add-ons__ <br>
 * Standard X-Plane G1000
 * Aerobask
@@ -19,7 +16,11 @@ __Supported aircraft add-ons__ <br>
     *   Cessna 208 (Grand) Carava
     *   Daher Kodiak 100
 
-The generic version of the instrument supports all of these aircarft add-ons. The aircaft add-on can be selected in the user properties of the instrument. There is also a per aircaraft add-on version available with is equal to the corresponding selection in the generic version.
+The generic version of the instrument supports all of these aircarft add-ons. The aircaft add-on can be selected in the user properties of the instrument. There is also a per aircraft add-on version available with is equal to the corresponding selection in the generic version. If you have installed/imported the generic version, the per aircraft add-on versions are not needed.
+<br>
+<br>
+
+![Custom G1000 overview](./Custom%20G1000%20overview.png?raw=true "Overview")
 <br>
 <br>
 
@@ -30,7 +31,7 @@ __Requirements__ <br>
 <br>
 
 __Installation__ <br>
-Import the siff file in Air Manager.
+Import the siff file(s) in Air Manager.
 <br>
 <br>
 
