@@ -5,6 +5,9 @@ The instrument uses video streaming in X-plane 12.
 <br>
 <br>
 
+![Custom G1000 overview](Custom+G1000+overview.png)
+
+
 __Supported aircraft add-ons__ <br>
 * Standard X-Plane G1000
 * Aerobask
