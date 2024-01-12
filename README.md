@@ -13,7 +13,7 @@ __Supported aircraft add-ons__ <br>
     * Diamond DA-50 RG
     * Diamond DA-62
 * Thranda
-    *   Cessna 208 (Grand) Carava
+    *   Cessna 208 (Grand) Caravan
     *   Daher Kodiak 100
 
 The generic version of the instrument supports all of these aircarft add-ons. The aircaft add-on can be selected in the user properties of the instrument. There is also a per aircraft add-on version available with is equal to the corresponding selection in the generic version. If you have installed/imported the generic version, the per aircraft add-on versions are not needed.
